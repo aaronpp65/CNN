@@ -1,0 +1,18 @@
+0.04015616327524185,0.04015616327524185,"[32, 64]",0.1,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.9291689991950989,0.9280535578727722,"[32, 64]",0.1,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.8301728963851929,0.8307306170463562,"[32, 64]",0.01,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.9185722470283508,0.9152258634567261,"[32, 64]",0.01,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.9247071743011475,0.9233129024505615,"[32, 64]",0.001,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.5680423974990845,0.5705521702766418,"[32, 64]",0.001,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.04322364926338196,0.04322364926338196,"[32, 64, 128]",0.1,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.9776909947395325,0.9751812815666199,"[32, 64, 128]",0.1,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.0343000553548336,0.03402119502425194,"[32, 64, 128]",0.01,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.9545454382896423,0.9366982579231262,"[32, 64, 128]",0.01,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.9651421904563904,0.9656999707221985,"[32, 64, 128]",0.001,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.05493586137890816,0.05521472543478012,"[32, 64, 128]",0.001,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.05493586137890816,0.05493586137890816,"[32, 64, 128, 256]",0.1,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.9804796576499939,0.9790853261947632,"[32, 64, 128, 256]",0.1,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.04015616327524185,0.04015616327524185,"[32, 64, 128, 256]",0.01,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.9623535871505737,0.9567763805389404,"[32, 64, 128, 256]",0.01,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
+0.9807584881782532,0.9804796576499939,"[32, 64, 128, 256]",0.001,<class 'keras.optimizers.optimizer_v2.adam.Adam'>
+0.03597322851419449,0.03541550412774086,"[32, 64, 128, 256]",0.001,<class 'keras.optimizers.optimizer_v2.gradient_descent.SGD'>
